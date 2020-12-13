@@ -29,13 +29,21 @@ Good ending – you give the dragon the rose instead of the princess potion. The
  
 Optimal Path (True Ending):
 -Enter name 
+
 -3
+
 -1
+
 -1
+
 -1
+
 -3
 
 -3 (program keeps breaking here????)
+
 -1 (if my program worked, this would be starting the rest of the True Ending path.)
+
 -1 or 2 (this choice would not have mattered. The first choice merely prints out the lines of the contents  of your bag.)
+
 -5 (this would have been the final option and would have printed the “congrats.txt” file THAT SHOULD HAVE BEEN WRITTEN if you picked the rose. Anything else would have given you bad ending #11.)
