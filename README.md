@@ -25,9 +25,7 @@ Bad ending #11 – same as #9 EXCEPT slight dialogue change... and princess does
 
 LINES 1365-1413, 1450-1473, 1510-1634 (only accessible through patient path!)
 Good ending – you give the dragon the rose instead of the princess potion. The dragon transforms into an angel. The angel vows to watch over you and aurora forever.
- 
- ===============================================
- 
+
  
 Optimal Path (True Ending):
 -Enter name 
